@@ -1,2 +1,2 @@
-In this program there is no third part depencies 
+In this program there is no third part dependency
 It heavily demanding SQLITE3 of which this was a part of python standard library
