@@ -1,0 +1,20 @@
+# SQLite database — this is generated data, not source code.
+# Everyone who runs the program gets their own fresh one.
+*.db
+*.sqlite
+*.sqlite3
+ 
+# Python bytecode cache
+__pycache__/
+*.pyc
+*.pyo
+ 
+# Virtual environments, in case you set one up later
+venv/
+.venv/
+env/
+ 
+# Editor/OS clutter
+.vscode/
+.idea/
+.DS_Store 
